@@ -1,11 +1,11 @@
 <?php
 // 原作者为MCNewsTools，由GamerNoTitle二次修改，模板套用的HTML5UP的HTML模板，请在使用该程序的时候不要删除版权信息，Thanks♪(･ω･)ﾉ！
-$host = "mc.example.com"; //设置服务器域名或 IP
+$host = "mc.merakt.cn"; //设置服务器域名或 IP
 $port = "25565"; //设置服务器端口，可以直接用服务器的链接端口，也可以使用query端口（UDP协议）
-$name = 'ExampleName'; // 服务器名字，会显示在标签页的标题和网站打头的大标题处
-$iconlink = 'https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png'; // 网站图标链接，可以使图片格式（.png/.jpg/etc.）或者是ico图标，用绝对路径或相对路径均可
+$name = 'Eco Craft 2nd 🍀'; // 服务器名字，会显示在标签页的标题和网站打头的大标题处
+$iconlink = 'https://z3.ax1x.com/2021/07/29/WqDQxK.png'; // 网站图标链接，可以使图片格式（.png/.jpg/etc.）或者是ico图标，用绝对路径或相对路径均可
 $description = 'Server Status by <a href="https://bili33.top">GamerNoTitle</a> | Tamplate by <a href="https://html5up.net">HTML5UP</a><br>Open Source Project <a href="https://github.com/GamerNoTitle/Minecraft-Server-Status">Minecraft-Server-Status</a> is now avaliable on <a href="https://github.com/GamerNoTitle/Minecraft-Server-Status">Github</a>'; // 描述，会显示在大标题的下方，用html语法写就可以了，换行请用<br>
-$imagelink = 'https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png'; // 图片链接，会显示在服务器信息右边的圈圈里
+$imagelink = 'https://z3.ax1x.com/2021/07/29/WqDQxK.png'; // 图片链接，会显示在服务器信息右边的圈圈里
 /*
 $host = $_GET["host"];
 $port = $_GET["port"];
